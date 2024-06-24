@@ -5,7 +5,7 @@ package one.digitalinnovation.gof.singleton;
  * 
  * @see <a href="https://stackoverflow.com/a/24018148">Referencia</a>
  * 
- * @author ThainaCosta2
+ * @author ThatianeCosta
  */
 public class SingletonLazyHolder {
 
